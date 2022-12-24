@@ -1,0 +1,36 @@
+.container-item {
+    display: flex;
+    
+}
+
+.item {
+    padding: 40px;
+    font-size: 25px;
+    border: 1px solid black;
+    height: fit-content;
+    width: fit-content;
+    flex-basis: 200px;
+    flex-shrink: 4;
+    flex-grow: 1;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.text_atrib {
+    font-weight: 500;
+    color: rgba(240, 248, 255, 0.795);
+    text-align: center;
+    text-decoration: none;
+    height: 200px;
+}
+
+.game_block {
+    height: 450px;
+    width: 400px;
+}
+
+
+
+body {
+    background-color:rgba(0, 0, 0, 0.925);
+}

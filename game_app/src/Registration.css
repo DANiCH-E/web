@@ -1,0 +1,21 @@
+.container {
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    border-radius: 30px;
+    border-color: white;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.title {
+    color: white;
+    padding-bottom: 120px;
+}
+
+.form-label {
+    color: white;
+}
+.form-control {
+    margin-top: 20px;
+}
